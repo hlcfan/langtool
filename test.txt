@@ -1,0 +1,3 @@
+LanguageTool is a your intelligent writing assistant.
+
+Errors will be underlined in different colours: we will mark seplling errors with red underilnes. Furthermore grammar error's are highlighted in yellow.
