@@ -11,3 +11,5 @@ go install github.com/hlcfan/langtool@master
 # Run it
 ~/go/bin/langtool -f filename.text
 ```
+
+![screenshot](./screenshot.png)
