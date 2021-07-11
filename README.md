@@ -9,7 +9,7 @@ Simple command line tool for opensource text proofreading api [https://www.langu
 go install github.com/hlcfan/langtool@master
 
 # Run it
-~/go/bin/langtool -f filename.text
+~/go/bin/langtool -f filename.txt
 ```
 
 ![screenshot](./screenshot.png)
